@@ -1,3 +1,3 @@
-backend : 
+backend : https://c5gestion-conferenciasback.vercel.app/
 
-frontend:  
+frontend:   https://c5gestion-conferenciasfront.vercel.app/
